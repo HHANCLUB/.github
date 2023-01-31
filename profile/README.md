@@ -1,12 +1,20 @@
-## Hi there 👋
+## 各位憨憨们好呀 👋
 
 
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+🙋‍♀️ 简单的介绍
 
+> 代码托管，提交建议和功能
+
+🌈 指南
+- issue仓库里提交issue，里边有模版
+
+👩‍💻 文档资源
+
+
+🍿 有趣的事情
+
+- 我们是一群憨憨
+- 我们是一个团队
